@@ -1,0 +1,32 @@
+{
+  "enabled": true,
+  "interval_hours": 6,
+  "on_startup": true,
+  "min_hours_since_last": 12,
+  "last_update": "2026-05-20T18:54:57.084773",
+  "sources": {
+    "malwarebazaar": true,
+    "malwarebazaar_limit": 110,
+    "threatfox": true,
+    "threatfox_days": 7,
+    "tags": [
+      "RedLineStealer",
+      "AgentTesla",
+      "Formbook",
+      "Stealc",
+      "Lumma",
+      "Racoon",
+      "LockBit",
+      "BlackMatter",
+      "Phobos",
+      "WannaCry",
+      "AsyncRAT",
+      "QuasarRAT",
+      "NjRAT",
+      "CobaltStrike",
+      "Mirai",
+      "Gafgyt",
+      "XMRig"
+    ]
+  }
+}
